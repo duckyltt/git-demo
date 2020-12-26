@@ -1,9 +1,8 @@
 hello
-<<<<<<< HEAD
 Dev branch
 DEv update
-=======
 
-Master branch
+master update
 
->>>>>>> master
+dev 2
+abc def
